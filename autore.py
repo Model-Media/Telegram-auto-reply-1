@@ -6,7 +6,7 @@ from telethon import events
 api_id = '2474270'
 api_hash = 'd6c0a53a212d5cd76afd69a48a9d80f8'
 
-client = TelegramClient('Username', api_id, api_hash)
+client = TelegramClient('Model_Media', api_id, api_hash)
 
 message = 'Hey, I am not available. I will come back soon. See you.
 Always at your service. 🙂'
